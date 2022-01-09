@@ -1,7 +1,7 @@
-# Checksum: MTY0MTYwMjcwOQo=
+# Checksum: MTY0MTY4OTI1MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.0-20220108-0
-# TimeUpdated: 2022-01-08T00:45:09+00:00
+# Version: 1.0.0-20220109-0
+# TimeUpdated: 2022-01-09T00:47:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -8061,6 +8061,7 @@ domain:cat.com,
 domain:cat04.com,
 domain:cat05.com,
 domain:catbombmusic.com,
+domain:catbox.moe,
 domain:catcatforum.com,
 domain:catch22.net,
 domain:catchgod.com,
