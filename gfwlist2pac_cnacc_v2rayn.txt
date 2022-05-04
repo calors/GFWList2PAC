@@ -1,7 +1,7 @@
-# Checksum: MTY1MTU0MDM0MQo=
+# Checksum: MTY1MTYyNjUzMQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20220503-0
-# TimeUpdated: 2022-05-03T01:12:21+00:00
+# Version: 1.0.0-20220504-0
+# TimeUpdated: 2022-05-04T01:08:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-100.com,
@@ -46045,7 +46045,6 @@ domain:img11.18183.com,
 domain:img11.360buyimg.com,
 domain:img11.360buyimg.com.gslb.qianxun.com,
 domain:img13.360buyimg.com,
-domain:img14.360buyimg.com,
 domain:img14.poco.cn,
 domain:img16.diyifanwen.com,
 domain:img166.diyifanwen.com,
