@@ -1,7 +1,7 @@
-# Checksum: MTY3NjE2NDAxNgo=
+# Checksum: MTY3NjI1MDI3Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20230212-0
-# TimeUpdated: 2023-02-12T01:06:56+00:00
+# Version: 1.0.0-20230213-0
+# TimeUpdated: 2023-02-13T01:04:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -1579,6 +1579,7 @@ DOMAIN-SUFFIX,17wanxiao.com
 DOMAIN-SUFFIX,17wclass.com
 DOMAIN-SUFFIX,17weike.com
 DOMAIN-SUFFIX,17wendao.com
+DOMAIN-SUFFIX,17whz.com
 DOMAIN-SUFFIX,17win.com
 DOMAIN-SUFFIX,17ww.cc
 DOMAIN-SUFFIX,17xie.com
@@ -18661,6 +18662,7 @@ DOMAIN-SUFFIX,digu365.com
 DOMAIN-SUFFIX,digua.com
 DOMAIN-SUFFIX,diguage.com
 DOMAIN-SUFFIX,diguan.wang
+DOMAIN-SUFFIX,diguazu.com
 DOMAIN-SUFFIX,diguobbs.com
 DOMAIN-SUFFIX,dihuikj.com
 DOMAIN-SUFFIX,diiqu.com
@@ -18962,7 +18964,6 @@ DOMAIN-SUFFIX,dmiug.com
 DOMAIN-SUFFIX,dmjtxt.com
 DOMAIN-SUFFIX,dmlei.com
 DOMAIN-SUFFIX,dmm87d.xyz
-DOMAIN-SUFFIX,dmmds.com
 DOMAIN-SUFFIX,dmozdir.org
 DOMAIN-SUFFIX,dmpans.com
 DOMAIN-SUFFIX,dmqst.com
@@ -20521,6 +20522,7 @@ DOMAIN-SUFFIX,eduzhixin.com
 DOMAIN-SUFFIX,eduzs.net
 DOMAIN-SUFFIX,edward-han.com
 DOMAIN-SUFFIX,edwiv.com
+DOMAIN-SUFFIX,ee-nav.com
 DOMAIN-SUFFIX,ee1234.com
 DOMAIN-SUFFIX,ee68.com
 DOMAIN-SUFFIX,ee8828.com
@@ -36465,6 +36467,7 @@ DOMAIN-SUFFIX,lingdianksw.com
 DOMAIN-SUFFIX,lingdonghuyu.com
 DOMAIN-SUFFIX,lingdunwang.com
 DOMAIN-SUFFIX,lingduohome.com
+DOMAIN-SUFFIX,lingduzuji.com
 DOMAIN-SUFFIX,lingdz.com
 DOMAIN-SUFFIX,lingfei.wang
 DOMAIN-SUFFIX,lingfengyun.com
@@ -40714,6 +40717,7 @@ DOMAIN-SUFFIX,nbahi.com
 DOMAIN-SUFFIX,nbahjx.com
 DOMAIN-SUFFIX,nbaidai.com
 DOMAIN-SUFFIX,nball.cc
+DOMAIN-SUFFIX,nbalxhf.com
 DOMAIN-SUFFIX,nbaqmq.com
 DOMAIN-SUFFIX,nbayaobasketballclub.com
 DOMAIN-SUFFIX,nbazww.com
@@ -41326,6 +41330,7 @@ DOMAIN-SUFFIX,nlxn.com
 DOMAIN-SUFFIX,nlypx.com
 DOMAIN-SUFFIX,nlzpy.com
 DOMAIN-SUFFIX,nm8yx.com
+DOMAIN-SUFFIX,nmbxd1.com
 DOMAIN-SUFFIX,nmet168.com
 DOMAIN-SUFFIX,nmgchigang.com
 DOMAIN-SUFFIX,nmgd.com
@@ -41934,6 +41939,7 @@ DOMAIN-SUFFIX,okooe.com
 DOMAIN-SUFFIX,okooo.com
 DOMAIN-SUFFIX,okoooimg.com
 DOMAIN-SUFFIX,okpush.com
+DOMAIN-SUFFIX,okpython.com
 DOMAIN-SUFFIX,okrecovery.com
 DOMAIN-SUFFIX,okskills.com
 DOMAIN-SUFFIX,oksun.com
@@ -50537,7 +50543,6 @@ DOMAIN-SUFFIX,suqian360.com
 DOMAIN-SUFFIX,suqicloud.com
 DOMAIN-SUFFIX,suqishi.com
 DOMAIN-SUFFIX,suqnn.com
-DOMAIN-SUFFIX,surdoc.net
 DOMAIN-SUFFIX,sure56.com
 DOMAIN-SUFFIX,suremotoo.site
 DOMAIN-SUFFIX,surgerycast.com
@@ -57541,6 +57546,7 @@ DOMAIN-SUFFIX,wufazhuce.com
 DOMAIN-SUFFIX,wufuba.com
 DOMAIN-SUFFIX,wufun.net
 DOMAIN-SUFFIX,wufuquanlawyer.com
+DOMAIN-SUFFIX,wugongdong.com
 DOMAIN-SUFFIX,wuguiyunwei.com
 DOMAIN-SUFFIX,wuguoren.com
 DOMAIN-SUFFIX,wuguyufen.com
@@ -63081,6 +63087,7 @@ DOMAIN-SUFFIX,yushunews.com
 DOMAIN-SUFFIX,yusi.com
 DOMAIN-SUFFIX,yusi.tv
 DOMAIN-SUFFIX,yusi123.com
+DOMAIN-SUFFIX,yutaoyouxi.com
 DOMAIN-SUFFIX,yuteng.site
 DOMAIN-SUFFIX,yutennet.com
 DOMAIN-SUFFIX,yutian.cc
