@@ -1,6 +1,6 @@
-# Checksum: MTY4NjE4NjQxMQo=
+# Checksum: MTY4NjI3MjkwMgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.0-20230608-0
-# TimeUpdated: 2023-06-08T01:06:51+00:00
+# Version: 1.0.0-20230609-0
+# TimeUpdated: 2023-06-09T01:08:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
