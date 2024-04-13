@@ -1,7 +1,7 @@
-# Checksum: MTcxMjg4MzEyNgo=
+# Checksum: MTcxMjk2ODkzNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20240412-0
-# TimeUpdated: 2024-04-12T00:52:06+00:00
+# Version: 1.0.0-20240413-0
+# TimeUpdated: 2024-04-13T00:42:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -51351,6 +51351,7 @@ domain:rayuu.com,
 domain:rayyzx.com,
 domain:razerapi.com,
 domain:razersynapse.com,
+domain:razerzone.com,
 domain:razrlele.com,
 domain:raztb.com,
 domain:rb139.com,
