@@ -1,7 +1,7 @@
-# Checksum: MTc0NTg4OTMxMwo=
+# Checksum: MTc0NTk3NTczMQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20250429-0
-# TimeUpdated: 2025-04-29T01:15:13+00:00
+# Version: 1.0.0-20250430-0
+# TimeUpdated: 2025-04-30T01:15:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
