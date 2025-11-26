@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NDAzMzQ1Ngo=
+# Checksum: MTc2NDExOTg3Nwo=
 # Title: Zhijie's CNACCList for Clash Premium
-# Version: 1.0.9-20251125-0
-# TimeUpdated: 2025-11-25T01:17:36+00:00
+# Version: 1.0.9-20251126-0
+# TimeUpdated: 2025-11-26T01:17:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000.link'
@@ -78129,6 +78129,7 @@ payload:
   - '+.qianvisa.com'
   - '+.qianwa.com'
   - '+.qianwanku.com'
+  - '+.qianwen.com'
   - '+.qianxiangbank.com'
   - '+.qianxibj.net'
   - '+.qianximiye.com'
