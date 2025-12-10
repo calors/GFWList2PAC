@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2NTI0MzE4Ngo=
+# Checksum: MTc2NTMyOTY5Ngo=
 # Title: Zhijie's GFWList for Clash Premium
-# Version: 1.0.9-20251209-0
-# TimeUpdated: 2025-12-09T01:19:46+00:00
+# Version: 1.0.9-20251210-0
+# TimeUpdated: 2025-12-10T01:21:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - '+.000webhost.com'
@@ -24517,6 +24517,7 @@ payload:
   - '+.r18av.com'
   - '+.r18lu-avi.shop'
   - '+.r18lu.com'
+  - '+.r2.dev'
   - '+.r34porn.net'
   - '+.ra-review.ac.uk'
   - '+.ra.gg'
